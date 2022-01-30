@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+img{
+	width: 100px;
+	height: 100px;
+	margin-bottom: 70px;
+}
+
+.block-left{
+	width:50%;
+	height:800px;
+	overflow:auto;
+	float:left;
+	background-color: #808080;
+	font-size: 30px;
+	padding-left: 70px;
+	}
+	
+.block-right{
+	width:45%;
+	height:800px;
+	overflow: auto;
+	background: url('https://media.istockphoto.com/photos/mural-artist-at-work-picture-id1002916974?b=1&k=20&m=1002916974&s=170667a&w=0&h=b2mnckuGWSjyW3tBimkOyc-gjgAjFx26nvjaxKJf5og=') no-repeat;
+	background-size: cover;
+	}

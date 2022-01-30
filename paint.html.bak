@@ -1,0 +1,45 @@
+<!Doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="cssforpaint.css">
+
+</head>
+
+<body>
+	<div class="block-left">
+			<img src="https://static.thenounproject.com/png/1844377-200.png">
+			<div style="margin:170px;"></div>
+			<h4><b>We are coming soon..</b></h4>
+			<p style="margin:5px;">We're working in<br>
+			<p style="margin: 5px;">our new website,<br>
+			<p style="margin: 5px;">stay tuned!<br>
+			<br>
+			<button style="
+			background: white;
+			width: 120px;
+			height: 40px;">Notify Us</button>
+			<button style="
+			background: #808080;
+			width: 120px;
+			height: 40px;"></b>i</b> Information</button>
+			<br>
+			<br>
+			<br>
+			<h6>Stay in touch:
+				<div class="links">
+				<a href="https://www.instagram.com/gstarraw/" class="link fab fa-instagram"></a>
+				<a href="https://twitter.com/gstarraw" class="link fab fa-twitter"></a>
+				<a href="https://ru-ru.facebook.com/gstarraw/" class="link fab fa-facebook"></a>
+				</div>
+			</h6>
+				
+			
+			<script src="https://kit.fontawesome.com/52042dcbfb.js" crossorigin="anonymous"></script>
+			
+	
+	</div>
+	<div class="block-right"></div>
+</body>
+
+</html>
